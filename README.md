@@ -28,9 +28,8 @@ It’s perfect for anyone interested in full-stack development, AI integrations,
 
 | Frontend | Backend | Database | Authentication | Deployment |
 |----------|---------|----------|----------------|------------|
-| React    | Node.js | MongoDB  | JWT + bcryptjs | Render     |
-           |    +    |
-           | Express |
+| React    | Node.js + Express | MongoDB  | JWT + bcryptjs | Render     |
+           
 
            
 ## Other tools & APIs:  
