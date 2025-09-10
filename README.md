@@ -40,6 +40,9 @@ It’s perfect for anyone interested in full-stack development, AI integrations,
 
 ---
 
+## Experience the fully functional JARVIS-style AI Virtual Assistant in action:  
+👉 [Open Live Demo](https://virtual-assistant-umkz.onrender.com)
+
 ## ⚡ Getting Started
 
 ### Prerequisites
@@ -47,8 +50,3 @@ It’s perfect for anyone interested in full-stack development, AI integrations,
 - Node.js installed  
 - MongoDB running (local or cloud)
 
-### Installation
-
-1. Clone the repository  
-   ```bash
-   git clone <repository-url>
